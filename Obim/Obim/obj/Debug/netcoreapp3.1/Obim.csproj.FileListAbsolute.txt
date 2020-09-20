@@ -1,0 +1,15 @@
+C:\Users\aleks\source\repos\Obim\Obim\bin\Debug\netcoreapp3.1\Obim.exe
+C:\Users\aleks\source\repos\Obim\Obim\bin\Debug\netcoreapp3.1\Obim.deps.json
+C:\Users\aleks\source\repos\Obim\Obim\bin\Debug\netcoreapp3.1\Obim.runtimeconfig.json
+C:\Users\aleks\source\repos\Obim\Obim\bin\Debug\netcoreapp3.1\Obim.runtimeconfig.dev.json
+C:\Users\aleks\source\repos\Obim\Obim\bin\Debug\netcoreapp3.1\Obim.dll
+C:\Users\aleks\source\repos\Obim\Obim\bin\Debug\netcoreapp3.1\Obim.pdb
+C:\Users\aleks\source\repos\Obim\Obim\obj\Debug\netcoreapp3.1\Obim.csprojAssemblyReference.cache
+C:\Users\aleks\source\repos\Obim\Obim\obj\Debug\netcoreapp3.1\Obim.Form1.resources
+C:\Users\aleks\source\repos\Obim\Obim\obj\Debug\netcoreapp3.1\Obim.csproj.GenerateResource.cache
+C:\Users\aleks\source\repos\Obim\Obim\obj\Debug\netcoreapp3.1\Obim.AssemblyInfoInputs.cache
+C:\Users\aleks\source\repos\Obim\Obim\obj\Debug\netcoreapp3.1\Obim.AssemblyInfo.cs
+C:\Users\aleks\source\repos\Obim\Obim\obj\Debug\netcoreapp3.1\Obim.csproj.CoreCompileInputs.cache
+C:\Users\aleks\source\repos\Obim\Obim\obj\Debug\netcoreapp3.1\Obim.dll
+C:\Users\aleks\source\repos\Obim\Obim\obj\Debug\netcoreapp3.1\Obim.pdb
+C:\Users\aleks\source\repos\Obim\Obim\obj\Debug\netcoreapp3.1\Obim.genruntimeconfig.cache
